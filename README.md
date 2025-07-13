@@ -1,4 +1,4 @@
-# Light Sensor LED Control using Arduino
+# Light Sensor(LDR) LED Control using Arduino
 
 This project demonstrates how to control an LED based on ambient light using an **LDR (Light Dependent Resistor)** and an **Arduino Uno**. When it's dark, the LED turns on. When there's enough light, the LED turns off automatically.
 
