@@ -5,11 +5,10 @@ This project demonstrates how to control an LED based on ambient light using an 
 ## 📷 Project Media
 
 - 📸 **Image of Circuit**  
-  ![Circuit Diagram](./Screenshot%202025-07-13%20115739.png)
+  ![Circuit Diagram](https://github.com/JawaherMQ5/LDR/blob/main/Screenshot%202025-07-13%20115739.png)
 
 - 🎥 **Demo Video**  
-  _Add your video link here (e.g., YouTube or local file)_
-
+ https://drive.google.com/file/d/1MSWBitIA9EinSfF-9VPTtDQ60T4i3LZ_/view?usp=drivesdk
 ## 🔧 Components Used
 
 - 1 x Arduino Uno  
